@@ -1,5 +1,5 @@
 # ReArrBKM
-To rearange Bookmarks in a pdf file
+To rearange pages In the order of Bookmarks in a pdf file
 
 How to Use:
 1. Run the GUITesting.exe in WindowsExecutable/dist/
