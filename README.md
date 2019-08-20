@@ -2,7 +2,7 @@
 To rearange Bookmarks in a pdf file
 
 How to Use:
-1. Run the GUITesting.exe
+1. Run the GUITesting.exe in WindowsExecutable/dist/
 2. Enter file path(till where the file is {Dont include the pdf name}) example (C:\Alfin\Documents\ ):
     Dont forget to end with a "\ " or "/"
 3. Enter the pdf file name: (Example MaxMillan.pdf)
