@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['GUITesting.py'],
-             pathex=['C:\\Users\\Alfin S Thomas\\Downloads\\ReArrBKM'],
+             pathex=[''],
              binaries=[],
              datas=[],
              hiddenimports=[],
